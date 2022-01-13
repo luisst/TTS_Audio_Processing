@@ -1,0 +1,52 @@
+1641590097924	geckodriver	INFO	Listening on 127.0.0.1:40287
+1641590097933	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "34603" "-no-remote" "-profile" "/tmp/rust_mozprofileCrKKwW"
+1641590098906	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileCrKKwW/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:34603/devtools/browser/a34e1fc6-2f9b-4d64-8ec7-b3450aa18e07
+1641590100767	Marionette	INFO	Listening on port 39663
+1641590101608	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1641590110711	Marionette	INFO	Stopped listening on port 39663
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1641590261423	geckodriver	INFO	Listening on 127.0.0.1:60285
+1641590261934	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "46829" "-no-remote" "-profile" "/tmp/rust_mozprofilez6ojx6"
+1641590262939	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilez6ojx6/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:46829/devtools/browser/15bafdec-6bcd-4ed8-b40f-b5a767f8b4c2
+1641590264511	Marionette	INFO	Listening on port 42245
+1641590264554	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1641590637404	geckodriver	INFO	Listening on 127.0.0.1:32799
+1641590637411	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "52637" "-no-remote" "-profile" "/tmp/rust_mozprofileK6JDzU"
+1641590638481	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileK6JDzU/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52637/devtools/browser/48334909-56b0-4031-b5f6-d2404322ccfa
+1641590640037	Marionette	INFO	Listening on port 43617
+1641590640138	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1641566699693	geckodriver	INFO	Listening on 127.0.0.1:44625
+1641566700697	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileuUlqfu"
+1641566702441	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileuUlqfu/search.json.mozlz4", (void 0)))
+1641566704073	Marionette	INFO	Listening on port 45041
+1641566704122	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1641592181870	geckodriver	INFO	Listening on 127.0.0.1:41943
+1641592182381	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "56053" "-no-remote" "-profile" "/tmp/rust_mozprofiletIB67x"
+1641592183326	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiletIB67x/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56053/devtools/browser/326d10d1-bda6-4f17-bff2-0c520b21dbff
+1641592184969	Marionette	INFO	Listening on port 41905
+1641592185008	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1641600619053	Marionette	INFO	Stopped listening on port 41905
+[Parent 407045, IPC I/O Parent] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-SBqOTO/firefox-95.0.1+build2/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc:19
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
